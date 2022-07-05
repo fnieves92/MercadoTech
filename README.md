@@ -1,1 +1,5 @@
-# MercadoTech
+ MercadoTech
+
+Hugo 
+Renzo
+Felipe

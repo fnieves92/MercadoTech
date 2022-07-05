@@ -1,5 +1,5 @@
  MercadoTech
 
-Hugo 
+Hugo :smiley:
 Renzo :v
-Felipe
+Felipe :smile:
